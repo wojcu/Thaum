@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TestDynamic.qml</file>
+        <file>SimpleButton.qml</file>
+        <file>SimpleLabel.qml</file>
+        <file>SideMenu.qml</file>
+    </qresource>
+</RCC>

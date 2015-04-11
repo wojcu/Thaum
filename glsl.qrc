@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GLSL/flat.fsh</file>
+        <file>GLSL/flat.vsh</file>
+    </qresource>
+</RCC>
